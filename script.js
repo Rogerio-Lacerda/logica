@@ -1,3 +1,4 @@
+// Nomes: Rogério Barros, Alex Santos,  Isabella Bruno.
 let name = "chocolate";
 
 let number = 12;
